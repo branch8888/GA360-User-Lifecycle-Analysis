@@ -28,3 +28,6 @@ Thumbs.db
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# 本地打包产物（上传用的 zip）
+dist/
