@@ -1,9 +1,7 @@
 ﻿pandas
 numpy
-scipy
+duckdb
 matplotlib
-seaborn
-scikit-learn
 jupyter
 pyarrow
 openpyxl
